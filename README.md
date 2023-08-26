@@ -29,20 +29,52 @@ A real-life example of a dynamic prompt is the autocomplete feature in a search 
 
 ## Example Prompt:
 
-You have the opportunity to build a dynamic prompt generator that can produce prompts for various types of short-form writing. How would you design a system to generate effective prompts on demand?
+Develop a GPT-3-based application that enables users to write a unique article on any topic using natural language. The application should meet the following requirements:
 
-Some things to consider in your response:
+### Topic Selection: 
+The app should allow users to enter their desired topic or keyword for the article. The app should also provide some suggestions or examples of topics to inspire users.
 
-• What categories or types of prompts would you include? Things like creative writing, journaling, social media captions, hashtags, etc. How could users select and filter different prompt types?
+### Article Generation: 
+Upon topic selection, the app should use GPT-3 to generate a unique and relevant article based on the user's input. The app should also use plagiarism detection to ensure the originality of the article.
 
-• What data sources could you tap into to dynamically generate prompts? Options include crowdsourced prompt databases, natural language models, word lists, quotes, etc. How would you ensure a diverse range of prompts?
+### Article Editing:
+The app should allow users to edit the generated article, either by modifying the text directly or by using voice commands. The app should also provide some features to help users improve their writing, such as:
 
-• How could you make the prompts interactive or customizable? For example, allowing users to specify a word, phrase or topic to generate prompts related to their input. Or adjusting a "creativity dial" to control how abstract or unconventional the prompts are.
+- A spell checker and a grammar checker that highlight and correct any errors or typos in the article.
+- A readability score that measures how easy or difficult the article is to read and understand.
+- A word count and a character count that show how long the article is.
+- A synonym finder that helps users find alternative words or phrases to avoid repetition or enhance their vocabulary.
+- A tone analyzer that detects and adjusts the tone and mood of the article, such as formal, informal, friendly, serious, etc.
 
-• What features would you build in to help users save, organize and reuse their favorite prompts? How could you enable sharing prompts between users?
+### Article Formatting: 
+The app should allow users to format the article according to their preferences, such as:
 
-• Share any other ideas you have for creating an effective dynamic prompt generation system. Think big!
+- Choosing a font style, size, and color for the text.
+- Adding headings, subheadings, bullet points, or numbered lists to organize the article.
+- Inserting images, videos, quotes, links, or other media elements to enrich the article.
+- Applying a citation style, such as APA, MLA, or Chicago, to reference any sources used in the article.
 
-This prompt provides the context that you want to build a prompt generator, asks open-ended questions to encourage creative responses, and issues a challenge to think ambitiously about the possibilities. The prompt suggests a few interactive features and prompt types as examples, but leaves room for people to share their own ideas.
+### Article Sharing: 
+The app should allow users to share their article with others, either by:
 
-Please let me know if you would like me to clarify or expand the prompt in any way. I aimed for a prompt that would generate discussion around the requirements, design, and functionality of an engaging prompt generation experience. But feel free to adjust the prompt as needed to best fit your particular goals.
+- Saving the article as a PDF, Word, or HTML file and downloading it to their device.
+- Copying the article text and pasting it into another application or platform.
+- Sending the article via email or social media to their contacts or followers.
+- Publishing the article on a blog or website using a simple interface.
+
+### Interactive UI:
+
+Use GPT-3's natural language understanding and generation capabilities to make the UI interactive and user-friendly.
+
+Use sliders, dropdowns, buttons, and voice controls to make the UI easy and fun to use.
+
+Provide tooltips or help icons to guide users on how to use specific features of the app.
+
+### Error Handling:
+Implement error-handling mechanisms to manage scenarios like invalid topic input, network failure, or API limit.
+
+### Documentation and User Guide: 
+Alongside the tool, prepare a concise user guide detailing the functionalities offered and how to make the best use of the app for writing articles.
+
+### End Goal: 
+A comprehensive GPT-3 application that allows non-technical users to easily write unique articles on any topic using natural language. The tool should streamline the writing process and enable users to express their ideas without delving deep into coding.
