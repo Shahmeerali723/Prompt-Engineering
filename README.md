@@ -26,3 +26,23 @@ A real-life example of a dynamic prompt is the autocomplete feature in a search 
 ### Improved User Experience.
 ### Better Data Collection.
 ### Higher Efficiency.
+
+## Example Prompt:
+
+You have the opportunity to build a dynamic prompt generator that can produce prompts for various types of short-form writing. How would you design a system to generate effective prompts on demand?
+
+Some things to consider in your response:
+
+• What categories or types of prompts would you include? Things like creative writing, journaling, social media captions, hashtags, etc. How could users select and filter different prompt types?
+
+• What data sources could you tap into to dynamically generate prompts? Options include crowdsourced prompt databases, natural language models, word lists, quotes, etc. How would you ensure a diverse range of prompts?
+
+• How could you make the prompts interactive or customizable? For example, allowing users to specify a word, phrase or topic to generate prompts related to their input. Or adjusting a "creativity dial" to control how abstract or unconventional the prompts are.
+
+• What features would you build in to help users save, organize and reuse their favorite prompts? How could you enable sharing prompts between users?
+
+• Share any other ideas you have for creating an effective dynamic prompt generation system. Think big!
+
+This prompt provides the context that you want to build a prompt generator, asks open-ended questions to encourage creative responses, and issues a challenge to think ambitiously about the possibilities. The prompt suggests a few interactive features and prompt types as examples, but leaves room for people to share their own ideas.
+
+Please let me know if you would like me to clarify or expand the prompt in any way. I aimed for a prompt that would generate discussion around the requirements, design, and functionality of an engaging prompt generation experience. But feel free to adjust the prompt as needed to best fit your particular goals.
