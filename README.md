@@ -78,3 +78,6 @@ Alongside the tool, prepare a concise user guide detailing the functionalities o
 
 ### End Goal: 
 A comprehensive GPT-3 application that allows non-technical users to easily write unique articles on any topic using natural language. The tool should streamline the writing process and enable users to express their ideas without delving deep into coding.
+
+## Magic Prompt:
+what are the main ingredients and steps to make a best crafted prompt.
