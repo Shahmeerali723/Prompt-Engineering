@@ -1,7 +1,7 @@
 # Prompt-Engineering
 Prompt engineering is a process of designing and implementing prompts that help guide users through a particular task or workflow. The prompts are designed to be clear, concise, and easy to understand, in order to help users navigate complex processes or systems. Examples of prompt engineering can be found in various areas, such as setting up a new computer or designing online forms. By using effective prompts, designers can help users complete tasks more quickly and accurately, ultimately improving the overall user experience.
 
-# The core elements of prompt engineering include:
+# The core elements of prompt engineering:
 
 ### 1. Intention:
 This refers to the designer's intended goal or purpose for the prompt. The designer must have a clear understanding of what the prompt is meant to achieve and how it fits into the broader user experience.
