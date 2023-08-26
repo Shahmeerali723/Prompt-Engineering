@@ -21,3 +21,8 @@ Static-prompt are pre-designed prompts that appear in a fixed location and forma
 ### Dynamic prompts:
 Dynamic-prompt are generated on the fly based on user input or system conditions
 A real-life example of a dynamic prompt is the autocomplete feature in a search engine. The prompt is generated on the fly based on the user's input and suggests possible search terms to help the user find what they are looking for more quickly.
+
+## Benefits of Prompt Engineering:
+### Improved User Experience.
+### Better Data Collection.
+### Higher Efficiency.
